@@ -1,8 +1,3 @@
-klNNGA
-======
-
-Neural Network and Genetic Algorithm Code from 1995. 
-
 Neural Network Library
 
 
@@ -121,7 +116,6 @@ MIT Press 1986
 A cog-sci perspective. Another good book.  
 
 Also check out the newsgroup comp.ai.neural-nets and read the FAQ's
-
 
 
 
