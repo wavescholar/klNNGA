@@ -39,7 +39,7 @@ int info_scan(FILE *fp);
 
 void clear_kb(void);
                                                               
-main()
+main_NN()
 {
     
     FILE *fp;

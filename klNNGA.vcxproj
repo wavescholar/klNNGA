@@ -14,6 +14,7 @@
     <ProjectGuid>{A455689C-1987-495C-B4B9-B49D7F713D59}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>klNNGA</RootNamespace>
+    <ProjectName>NN_GA</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -80,6 +81,7 @@
     <ClInclude Include="BK_PROP.H" />
     <ClInclude Include="LMS.H" />
     <ClInclude Include="MIN_DIST.H" />
+    <ClInclude Include="NEURAL.H" />
     <ClInclude Include="RAND.H" />
     <ClInclude Include="RUN_NTWK.H" />
     <ClInclude Include="stdafx.h" />
