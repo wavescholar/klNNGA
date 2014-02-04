@@ -28,11 +28,11 @@ d)  Three different types of training algorithms:
      ii)   minimum disturbance
      iii)  least mean square
 
-
 WHAT'S INCLUDED  in the klNNGA Git Repository
 1)  neur32.exe - a Windows32 bit version running in a console box
 2)  The complete set of source files that should compile with minor if any changes
 3)  Several examples of network config files and associated data
+4) bpwin1.0 an MFC application with a rather brittle UI to set up a multilayer feed forward Neural Network architecture. 
      
 HOW TO USE EXAMPLE FILES 
 To train a simple network on three data pairs:
@@ -41,8 +41,7 @@ To train a simple network on three data pairs:
 3) At the second file prompt, enter datbp3.txt
 4) At the third prompt enter the name of the file you want output results to be written to
    One will be created if you specify a file that doesn't exist.
-5) Remember to run have all of the above files in the same directory as the program,
-   otherwise enter the full path of the file.
+5) Remember to run have all of the above files in the same directory as the program,   otherwise enter the full path of the file.
 
 To run the above trained network:
 1) Start the program
